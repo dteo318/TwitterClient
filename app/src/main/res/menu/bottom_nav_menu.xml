@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemTimeline"
+        android:title=""
+        android:icon="@drawable/bottom_navigation_timeline" />
+    <item
+        android:id="@+id/itemSearch"
+        android:title=""
+        android:icon="@drawable/bottom_navigation_search" />
+    <item
+        android:id="@+id/itemNotifications"
+        android:title=""
+        android:icon="@drawable/bottom_navigation_notifications" />
+    <item
+        android:id="@+id/itemMessages"
+        android:title=""
+        android:icon="@drawable/bottom_navigation_messages" />
+</menu>
